@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1918a103-22d1-491b-a7e8-0c71d50987a0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/PSTema1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PSTema1/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PSTema1/.idea/libraries/mysql_connector_java.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PSTema1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PSTema1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PSTema1/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PSTema1/PSTema1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PSTema1/lib/mysql-connector-java-5.1.34-bin.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PSTema1/out/production/PSTema1/Connection/ConnectionFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PSTema1/out/production/PSTema1/Controller/AdminController$AddDoctorListener.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PSTema1/out/production/PSTema1/Controller/AdminController$ComboSelListener.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PSTema1/out/production/PSTema1/Controller/AdminController$DeleteDoctorListener.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PSTema1/out/production/PSTema1/Controller/AdminController$EditDoctorListener.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PSTema1/out/production/PSTema1/Controller/AdminController$GoBackListener.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PSTema1/out/production/PSTema1/Controller/AdminController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PSTema1/out/production/PSTema1/Controller/DonorController$DeleteDonorListener.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PSTema1/out/production/PSTema1/Controller/DonorController$EditDonorListener.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PSTema1/out/production/PSTema1/Controller/DonorController$GoBackListener.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PSTema1/out/production/PSTema1/Controller/DonorController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PSTema1/out/production/PSTema1/Controller/LogInController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PSTema1/out/production/PSTema1/Controller/RegisterController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PSTema1/out/production/PSTema1/Controller/WelcomeController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PSTema1/out/production/PSTema1/DAO/AdminDAO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PSTema1/out/production/PSTema1/DAO/DoctorDAO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PSTema1/out/production/PSTema1/DAO/DonorDAO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PSTema1/out/production/PSTema1/DAO/RegionDAO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PSTema1/out/production/PSTema1/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PSTema1/out/production/PSTema1/Model/Admin.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PSTema1/out/production/PSTema1/Model/Doctor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PSTema1/out/production/PSTema1/Model/Donor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PSTema1/out/production/PSTema1/Model/Region.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PSTema1/out/production/PSTema1/Model/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PSTema1/out/production/PSTema1/View/AdminView.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PSTema1/out/production/PSTema1/View/DoctorView.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PSTema1/out/production/PSTema1/View/DonorView.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PSTema1/out/production/PSTema1/View/LogInView.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PSTema1/out/production/PSTema1/View/RegisterView.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PSTema1/out/production/PSTema1/View/WelcomeView.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PSTema1/src/Connection/ConnectionFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PSTema1/src/Controller/AdminController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PSTema1/src/Controller/DonorController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PSTema1/src/Controller/LogInController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PSTema1/src/Controller/RegisterController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PSTema1/src/Controller/WelcomeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PSTema1/src/DAO/AdminDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PSTema1/src/DAO/DoctorDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PSTema1/src/DAO/DonorDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PSTema1/src/DAO/RegionDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PSTema1/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PSTema1/src/Model/Admin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PSTema1/src/Model/Doctor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PSTema1/src/Model/Donor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PSTema1/src/Model/Region.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PSTema1/src/Model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PSTema1/src/View/AdminView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PSTema1/src/View/DoctorView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PSTema1/src/View/DonorView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PSTema1/src/View/LogInView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PSTema1/src/View/RegisterView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PSTema1/src/View/WelcomeView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../temaps1/admin.ibd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../temaps1/doctor.ibd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../temaps1/donor.ibd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../temaps1/region.ibd" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2NQYMO72erwCsAgv5xLtXRoFx4k" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Denis/Desktop/Tema1/PSTema1",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1918a103-22d1-491b-a7e8-0c71d50987a0" name="Changes" comment="" />
+      <created>1679597723112</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1679597723112</updated>
+      <workItem from="1679597724394" duration="11000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
